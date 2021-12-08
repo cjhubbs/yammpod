@@ -1,0 +1,71 @@
+baseurl: "https://yammpod.info/"
+title: YAMMPOD (dot) INFO
+theme: ghostwriter
+languageCode: en-us
+copyright: Chris Hubbs
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    tabWidth: 2
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    respectDoNotTrack: true
+    useSessionStorage: false
+
+author:
+  name: Chris Hubbs
+  profile: ""
+
+taxonomies:
+  tag: tags
+
+params:
+  mainSections:
+    - post
+  intro: true
+  headline: YAMMPOD (dot) INFO
+  description: Notes, Links, and Arcana from the Young Adult Movie Ministry Podcast
+  twitter: "https://twitter.com/yammpodinfo"
+  opengraph: true
+  shareTwitter: true
+  rss: true
+  shareFacebook: false
+  shareLinkedIn: false
+  dateFormat: "Jan 2, 2006"
+  exponeaJsUrl: ""
+  exponeaTarget: ""
+  exponeaToken: ""
+  exponeaTrackVisits: false
+  readingTime: false
+  readingTimeText: "Estimated reading time:"
+  fathomUrl: ""
+  fathomSiteId: ""
+
+permalinks:
+  post: "/:filename/"
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Volume 1
+      url: /volume-1/
+      weight: 3
+    - name: Volume 2
+      url: /volume-2/
+      weight: 4
+    - name: YAMMPOD Proper
+      url: https://yammpod.com
+      weight: 5
