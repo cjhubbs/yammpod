@@ -8,7 +8,7 @@ id: 127
 title: 'Episode 14: How I Love You, You Are the One'
 url: /episode-14/
 ---
- 
+
 
 **Link to the show:** [Young Adult Movie Ministry Episode 14 on Substack](https://yammpod.substack.com/p/episode-14-how-i-love-you-you-are)  
 Release date: October 8, 2020
@@ -24,11 +24,11 @@ _[Higher Ground](https://www.imdb.com/title/tt1562568/)_ (2011), directed by Ver
 
 ### Other Mentions
 
-_This episode had remarkable personal resonance for both the hosts and the guest. As a result the episode has a lot of personal anecdotes that don&#8217;t have much to link._ 
+_This episode had remarkable personal resonance for both the hosts and the guest. As a result the episode has a lot of personal anecdotes that don't have much to link._
 
-  * Justin&#8217;s review of _Higher Ground_ for _[Variety](https://variety.com/2011/film/markets-festivals/higher-ground-1117944377/)_
+  * Justin's review of _Higher Ground_ for _[Variety](https://variety.com/2011/film/markets-festivals/higher-ground-1117944377/)_
   * [Mark Driscoll](https://en.wikipedia.org/wiki/Mark_Driscoll)
   * [_Love Fraud_](https://www.imdb.com/title/tt11457812) (documentary series on Showtime about a guy serially preying on women who are looking for love)
   * [_Jesus Camp_](https://www.imdb.com/title/tt0486358/)
   * [Keith Green](https://en.wikipedia.org/wiki/Keith_Green)
-  * Lee Chang-dong&#8217;s _[Secret Sunshine](https://www.imdb.com/title/tt0817225/)_
+  * Lee Chang-dong's _[Secret Sunshine](https://www.imdb.com/title/tt0817225/)_

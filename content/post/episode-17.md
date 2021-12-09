@@ -24,9 +24,9 @@ Sam is a sentient pile of lichen and clotted weeds in the shape of a man imbued 
 ### Other Mentions
 
   * _[From Hell](https://bookshop.org/a/20775/9780958578349)_ by Alan Moore and Eddie Campbell
-  * Emily VanDerWerff article on [_Midsommar_ addressing transgender identity](https://www.vox.com/culture/21307689/midsommar-trans-review-ending-spoilers) (on the show, Alissa describes it as an article about _Hereditary_, but as far as I can tell that&#8217;s a mistake)
+  * Emily VanDerWerff article on [_Midsommar_ addressing transgender identity](https://www.vox.com/culture/21307689/midsommar-trans-review-ending-spoilers) (on the show, Alissa describes it as an article about _Hereditary_, but as far as I can tell that's a mistake)
   * _[Lady Macbeth](https://www.imdb.com/title/tt4291600/)_ starring Frances Pugh [On [Amazon Prime Video](https://amzn.to/3iTahMt)]
-  * _[Scream Queens](https://www.imdb.com/title/tt4145384/)_ (TV series&#8230; Alissa assures us it&#8217;s not good)
+  * _[Scream Queens](https://www.imdb.com/title/tt4145384/)_ (TV series; Alissa assures us it's not good)
   * _[Shivers](https://www.imdb.com/title/tt0073705?ref_=nv_sr_srsg_0)_ (David Cronenberg film)
-  * _[Six Feet Under](https://www.imdb.com/title/tt0248654)_ 
-  * [Alissa&#8217;s explainer on the end of _Midsommar_](https://www.vox.com/culture/2019/7/3/19102557/midsommar-ending-spoilers)
+  * _[Six Feet Under](https://www.imdb.com/title/tt0248654)_
+  * [Alissa's explainer on the end of _Midsommar_](https://www.vox.com/culture/2019/7/3/19102557/midsommar-ending-spoilers)

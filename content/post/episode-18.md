@@ -30,19 +30,17 @@ Sam is a giant ape who lives at the top of the Chrysler Building and swats away 
   * [King Cyrus of Persia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
   * [General William Boykin](https://en.wikipedia.org/wiki/William_G._Boykin)
   * [David Barton](https://en.wikipedia.org/wiki/David_Barton_(author)) (historian of record in homeschool circles)
-  * [Patrick Henry College](https://www.phc.edu/) (another conservative Christian college but people tend to come out with more of an education than the Liberty folks&#8230;)
+  * [Patrick Henry College](https://www.phc.edu/) (another conservative Christian college but people tend to come out with more of an education than the Liberty folks...)
   * The [New Apostolic Reformation](https://en.wikipedia.org/wiki/New_Apostolic_Reformation)
   * [Paula White](https://en.wikipedia.org/wiki/Paula_White) (big player in the NAR, spiritual advisor to Donald Trump)
   * [Robert Jeffress](https://en.wikipedia.org/wiki/Robert_Jeffress) (pastor of First Baptist Church of Dallas)
   * [Eric Metaxas](https://en.wikipedia.org/wiki/Eric_Metaxas) (who punched a guy the other day)
-  * John Piper&#8217;s piece about [how to live under an unqualified president](https://www.desiringgod.org/articles/how-to-live-under-an-unqualified-president)
-  * Sarah Pulliam Bailey&#8217;s [WaPo piece on Patriot Churches](https://www.washingtonpost.com/religion/2020/10/26/trump-christian-nationalism-patriot-church/)
-  * Sam&#8217;s article [&#8220;Catching on to Q&#8221;](https://www.cjr.org/politics/qanon-save-the-children-extremist-trump.php) for _Columbia Journalism Review_
-  * [&#8220;To Trump fans, #MAGA is more than a slogan. It&#8217;s an aesthetic.&#8221;](https://www.vox.com/culture/2018/8/8/17376824/trump-fan-art-maga-dinesh-dsouza-jon-mcnaughton) Alissa&#8217;s article about the aesthetics of Trump supporters
+  * John Piper's piece about [how to live under an unqualified president](https://www.desiringgod.org/articles/how-to-live-under-an-unqualified-president)
+  * Sarah Pulliam Bailey's [WaPo piece on Patriot Churches](https://www.washingtonpost.com/religion/2020/10/26/trump-christian-nationalism-patriot-church/)
+  * Sam's article ["Catching on to Q"](https://www.cjr.org/politics/qanon-save-the-children-extremist-trump.php) for _Columbia Journalism Review_
+  * ["To Trump fans, #MAGA is more than a slogan. It's an aesthetic.""](https://www.vox.com/culture/2018/8/8/17376824/trump-fan-art-maga-dinesh-dsouza-jon-mcnaughton) Alissa's article about the aesthetics of Trump supporters
   * [Don Colbert](https://drcolbert.com/) (_700 Club_ Guy and author of several books, some of which show up in the background of the movie)
   * _[Heroes of the Fourth Turning](https://www.playwrightshorizons.org/shows/plays/heroes-fourth-turning/)_ (play by Will Arbury about Catholic intellectuals)
-  * [Alissa&#8217;s column at Vox](https://www.vox.com/culture/2019/11/11/20949955/heroes-fourth-turning-interview-will-arbery-playwrights-horizons-catholic-play) on _Heroes of the Fourth Turning_ 
+  * [Alissa's column at Vox](https://www.vox.com/culture/2019/11/11/20949955/heroes-fourth-turning-interview-will-arbery-playwrights-horizons-catholic-play) on _Heroes of the Fourth Turning_
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://yammpod.info/wp-content/uploads/2021/01/800px-Reefer_Madness_1936-701x1024.jpg" alt="" class="wp-image-153" width="468" height="684" srcset="https://yammpod.info/wp-content/uploads/2021/01/800px-Reefer_Madness_1936-701x1024.jpg 701w, https://yammpod.info/wp-content/uploads/2021/01/800px-Reefer_Madness_1936-205x300.jpg 205w, https://yammpod.info/wp-content/uploads/2021/01/800px-Reefer_Madness_1936-768x1121.jpg 768w, https://yammpod.info/wp-content/uploads/2021/01/800px-Reefer_Madness_1936.jpg 800w" sizes="(max-width: 468px) 100vw, 468px" /><figcaption><a href="https://commons.wikimedia.org/wiki/File:Reefer_Madness_(1936).jpg">Motion Picture Ventures</a>, Public domain, via Wikimedia Commons</figcaption></figure>
-</div>
+{{< figure src="/800px-Reefer_Madness_1936.jpg" alt="Reefer Madness movie poster" caption="[Motion Picture Ventures](https://commons.wikimedia.org/wiki/File:Reefer_Madness_(1936).jpg), Public Domain, via Wikimedia Commons" >}}

@@ -7,10 +7,10 @@ guid: https://yammpod.info/?p=399
 id: 399
 spay_email:
 - ""
-title: 'Vol. 2, Episode 5: That&#8217;s a Pipeline'
+title: "Vol. 2, Episode 5: That's a Pipeline"
 url: /episode-52/
 ---
- 
+
 
 **Link to the show:** <a href="https://yammpod.substack.com/p/vol-2-episode-5-thats-a-pipeline" data-type="URL">Young Adult Movie Ministry Vol. 2, Episode 5 on Substack</a>  
 Release date: September 27, 2021

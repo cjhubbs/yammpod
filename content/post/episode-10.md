@@ -8,7 +8,7 @@ id: 111
 title: 'Episode 10: Why Are You Following Me?'
 url: /episode-10/
 ---
- 
+
 
 **Link to the show:** [Young Adult Movie Ministry Episode 10 on Substack](https://yammpod.substack.com/p/episode-10-why-are-you-following)  
 Release date: September 11, 2020
@@ -30,4 +30,4 @@ _[Silence](https://www.imdb.com/title/tt0490215/)_ (2016), directed by Martin Sc
   * [Steven Greydanus](http://decentfilms.com/about) (film critic for National Catholic Register)
   * _[Scandal](https://bookshop.org/a/20775/9780720612417)_ by Shusaku Endo
   * _[The Age of Innocence](https://www.imdb.com/title/tt0106226/)_
-  * [Father James Martin, S. J.](https://twitter.com/JamesMartinSJ) (aka &#8220;James Martin on Twitter&#8221;)
+  * [Father James Martin, S. J.](https://twitter.com/JamesMartinSJ) (aka "James Martin on Twitter")
