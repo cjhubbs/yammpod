@@ -20,22 +20,22 @@ _[Poltergeist](https://www.imdb.com/title/tt0469494/)_ (1982), directed by Tobe 
 
 ### Who the Hosts Are This Week
 
-Sam is reporter-at-large, editor of [Forever Wars](https://foreverwars.substack.com/), and TV person. Alissa is Vox&#8217;s film critic and author of the upcoming book _[Salty](https://www.broadleafbooks.com/store/product/9781506473550/Salty)_. She is also a surprising amount of goop.
+Sam is reporter-at-large, editor of [Forever Wars](https://foreverwars.substack.com/), and TV person. Alissa is Vox's film critic and author of the upcoming book _[Salty](https://www.broadleafbooks.com/store/product/9781506473550/Salty)_. She is also a surprising amount of goop.
 
 ### Other Mentions
 
   * Per Sam, this movie is so much better than _[Stranger Things](https://www.imdb.com/title/tt4574334)_
   * _[The Souvenir, Part II](https://www.imdb.com/title/tt6992978/)_ (which includes a kid from _Stranger Things)_
-  * Critic [J. Hoberman&#8217;s](https://en.wikipedia.org/wiki/J._Hoberman) book [_Make My Day_: _Movie Culture in the Age of Reagan_](https://bookshop.org/a/20775/9781595580061) (Sam also mentioned one that he wrote on the French New Wave which I can&#8217;t seem to identify&#8230;) 
-  * Tobe Hooper&#8217;s other films: _[The Texas Chainsaw Massacre](https://www.imdb.com/title/tt0072271/?ref_=nm_flmg_dr_37)_ and _[Eaten Alive](https://www.imdb.com/title/tt0074455/?ref_=nm_flmg_dr_36)_
+  * Critic [J. Hoberman's](https://en.wikipedia.org/wiki/J._Hoberman) book [_Make My Day_: _Movie Culture in the Age of Reagan_](https://bookshop.org/a/20775/9781595580061) (Sam also mentioned one that he wrote on the French New Wave which I can't seem to identify&#8230;) 
+  * Tobe Hooper's other films: _[The Texas Chainsaw Massacre](https://www.imdb.com/title/tt0072271/?ref_=nm_flmg_dr_37)_ and _[Eaten Alive](https://www.imdb.com/title/tt0074455/?ref_=nm_flmg_dr_36)_
   * The sequel to this film: _[Poltergeist II: The Other Side](https://www.imdb.com/title/tt0091778/)_ (also a good film, per Sam)
   * [The _Poltergeist_ Curse](https://www.biography.com/news/the-poltergeist-curse-its-heeere)
   * [The Satanic Panic](https://en.wikipedia.org/wiki/Satanic_panic)
-  * [Frank Peretti&#8217;s](https://en.wikipedia.org/wiki/Frank_E._Peretti) books (which come from this era)
+  * [Frank Peretti's](https://en.wikipedia.org/wiki/Frank_E._Peretti) books (which come from this era)
   * _[Evil](https://www.imdb.com/title/tt9055008/)_ (tv show)
   * [Teddy Ruxpin](https://en.wikipedia.org/wiki/Teddy_Ruxpin) (the creepiest toy of the 1980s)
-  * Wes Anderson&#8217;s new movie _[The French Dispatch](https://www.imdb.com/title/tt8847712/)_ (which Alissa doesn&#8217;t like very much)
-  * The movie _[Scanners](https://www.imdb.com/title/tt0081455/)_ which has lovely non-CGI work where the guy&#8217;s head explodes
+  * Wes Anderson's new movie _[The French Dispatch](https://www.imdb.com/title/tt8847712/)_ (which Alissa doesn't like very much)
+  * The movie _[Scanners](https://www.imdb.com/title/tt0081455/)_ which has lovely non-CGI work where the guy's head explodes
   * The Elisabeth Moss version of _[The Invisible Man](https://www.imdb.com/title/tt1051906)_
   * _[Happy Death Day](https://www.imdb.com/title/tt5308322/)_ (a charming horror movie, per Sam)
   * _[Paranormal Activity](https://www.imdb.com/title/tt1179904/)_ (a good and very scary horror movie, per Sam)
@@ -44,9 +44,9 @@ Sam is reporter-at-large, editor of [Forever Wars](https://foreverwars.substack.
 
 ### What we learned today
 
-Alissa: Do not dig your pool where there is a cemetery. Secondly, if you pick up your silverware and it&#8217;s suddenly bent in other directions, just leave. Also, watch _Evil_ on CBS because it&#8217;s very good.
+Alissa: Do not dig your pool where there is a cemetery. Secondly, if you pick up your silverware and it's suddenly bent in other directions, just leave. Also, watch _Evil_ on CBS because it's very good.
 
-Sam: Latex and corn syrup are a potent combination and can be used around the house to amuse your friends and family. Also, don&#8217;t let your kids set too close to the television set.
+Sam: Latex and corn syrup are a potent combination and can be used around the house to amuse your friends and family. Also, don't let your kids set too close to the television set.
 
 <div class="wp-block-image">
   <figure class="aligncenter size-full"><img loading="lazy" width="474" height="474" src="https://yammpod.info/wp-content/uploads/2021/11/external-content.duckduckgo.jpg" alt="" class="wp-image-427" srcset="https://yammpod.info/wp-content/uploads/2021/11/external-content.duckduckgo.jpg 474w, https://yammpod.info/wp-content/uploads/2021/11/external-content.duckduckgo-300x300.jpg 300w, https://yammpod.info/wp-content/uploads/2021/11/external-content.duckduckgo-150x150.jpg 150w" sizes="(max-width: 474px) 100vw, 474px" /></figure>

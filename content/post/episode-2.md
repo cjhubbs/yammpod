@@ -24,7 +24,7 @@ Release Date: July 17, 2020
   * Illustrator and author [Chris Van Allsburg](https://en.wikipedia.org/wiki/Chris_Van_Allsburg), who drew [creepy cover art](https://arthur.io/art/chris-van-allsburg/the-last-battle) for _The Last Battle_ (also wrote _Jumanji_!)
   * _[Planet Narnia](https://bookshop.org/a/20775/9780199738700)_ by Michael Ward
   * _[The Story of the Treasure Seekers](https://bookshop.org/a/20775/9780140367065)_ and _[Five Children and It](https://bookshop.org/a/20775/9780141321615)_ by E. Nesbit
-  * C. S. Lewis&#8217; _Space Trilogy_ (_[Out of the Silent Planet](https://bookshop.org/a/20775/9780743234900)_, _[Perelandra](https://bookshop.org/a/20775/9780743234917)_, _[That Hideous Strength](https://bookshop.org/a/20775/9780743234924)_)
+  * C. S. Lewis' _Space Trilogy_ (_[Out of the Silent Planet](https://bookshop.org/a/20775/9780743234900)_, _[Perelandra](https://bookshop.org/a/20775/9780743234917)_, _[That Hideous Strength](https://bookshop.org/a/20775/9780743234924)_)
   * _His Dark Materials_ trilogy by Philip Pullman (_[The Golden Compass](https://bookshop.org/a/20775/9780440418320)_, _[The Subtle Knife](https://bookshop.org/a/20775/9780440418337)_, _[The Amber Spyglass](https://bookshop.org/a/20775/9780440418566)_)
   * _[The Good Man Jesus and the Scoundrel Christ](https://bookshop.org/a/20775/9780802145390)_ by Philip Pullman
   * _[The Problem of Susan](https://bookshop.org/books/fragile-things-short-fictions-and-wonders/9780061252020)_ by Neil Gaiman

@@ -29,12 +29,12 @@ Sam is a bad boy who just needs to be saved. Alissa is a really lovely little pi
 ### Other Mentions
 
   * The [Nicholas Sparks novel](https://bookshop.org/a/20775/9781538764701) behind the movie
-  * _[Dawson&#8217;s Creek](https://www.imdb.com/title/tt0118300/)_ (its sets were used for _A Walk to Remember_)
+  * _[Dawson's Creek](https://www.imdb.com/title/tt0118300/)_ (its sets were used for _A Walk to Remember_)
   * _[I Still Believe](https://www.imdb.com/title/tt9779516/)_ (movie by/about Christian musician Jeremy Camp)
-  * Sam: &#8220;Wilmington is the [Mos Eisley cantina](https://www.starwars.com/databank/mos-eisley-cantina) of North Carolina&#8221;
-  * [&#8220;Flood&#8221;](https://www.youtube.com/watch?v=EfAhpX_wIBkSame) by Jars of Clay
+  * Sam: "Wilmington is the [Mos Eisley cantina](https://www.starwars.com/databank/mos-eisley-cantina) of North Carolina"
+  * ["Flood"](https://www.youtube.com/watch?v=EfAhpX_wIBkSame) by Jars of Clay
   * [Switchfoot](https://switchfoot.com/) (cool-ish CCM)
-  * [Rachael Lampa](https://en.wikipedia.org/wiki/Rachael_Lampa) (another CCM artist with a song on the soundtrack &#8211; I&#8217;ll cross pollinate here and link [her great interview w/ Andrew Osenga on The Pivot](https://anchor.fm/the-pivot/episodes/071---Rachael-Lampa-eessa4))
+  * [Rachael Lampa](https://en.wikipedia.org/wiki/Rachael_Lampa) (another CCM artist with a song on the soundtrack... I'll cross pollinate here and link [her great interview w/ Andrew Osenga on The Pivot](https://anchor.fm/the-pivot/episodes/071---Rachael-Lampa-eessa4))
   * _[I Kissed Dating Goodbye](https://en.wikipedia.org/wiki/I_Kissed_Dating_Goodbye)_
   * _[Christian Mingle](https://www.imdb.com/title/tt3398066/)_ (another missionary dating movie to be watched _after_ Dry January is over)
   * _[Fireproof](https://www.imdb.com/title/tt1129423/)_
@@ -44,4 +44,6 @@ Sam is a bad boy who just needs to be saved. Alissa is a really lovely little pi
   * [WWJD bracelets](https://en.wikipedia.org/wiki/What_would_Jesus_do%3F)
   * _[The Edge of Seventeen](https://www.imdb.com/title/tt1878870/)_
   * _[Cruel Intentions](https://www.imdb.com/title/tt0139134/)_
-  * [Kevin Williamson](https://www.imdb.com/name/nm0932078/) (screenwriter of _Dawson&#8217;s Creek_ and the _Scream_ movies)
+  * [Kevin Williamson](https://www.imdb.com/name/nm0932078/) (screenwriter of _Dawson's Creek_ and the _Scream_ movies)
+  
+  {{< youtube EfAhpX_wIBk >}}

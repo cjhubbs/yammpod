@@ -22,20 +22,20 @@ _[The Prodigal](https://www.imdb.com/title/tt0039192/?ref_=fn_al_tt_2)_ (1955), 
 
 ### Who the Hosts Are This Week
 
-Sam is Prada Guy, editor-for-hire, and editor of _[Forever Wars](https://foreverwars.substack.com/)_. Alissa is Vox&#8217;s film critic and High Priestess of this podcast.
+Sam is Prada Guy, editor-for-hire, and editor of _[Forever Wars](https://foreverwars.substack.com/)_. Alissa is Vox's film critic and High Priestess of this podcast.
 
 ### Special Guest
 
-[Lyz Lenz](https://lyzlenz.com/) is author of _[God Land](https://bookshop.org/a/20775/9780253041531)_ and [_Belabored_](https://bookshop.org/a/20775/9781541762831), the only person we want to hear talk about awkward Bible sex, and thus YAMMPOD&#8217;s first return guest!
+[Lyz Lenz](https://lyzlenz.com/) is author of _[God Land](https://bookshop.org/a/20775/9780253041531)_ and [_Belabored_](https://bookshop.org/a/20775/9781541762831), the only person we want to hear talk about awkward Bible sex, and thus YAMMPOD's first return guest!
 
 ### Other Mentions
 
   * Sam thinks every movie is like _[Midsommar](https://www.imdb.com/title/tt8772262/)_. (Not just the ones w/ human sacrifice&#8230;)
   * The [Shema Yisrael](https://en.wikipedia.org/wiki/Shema_Yisrael)
   * The two most important movies to this podcast: _[The Exorcist](https://www.imdb.com/title/tt0070047)_ and _[Hail, Caesar!](https://www.imdb.com/title/tt0475290/)_
-  * _[People](https://bookshop.org/a/20775/9780385131810)_ by Peter Spier (Sam&#8217;s kid&#8217;s mandatory bedtime reading)
-  * [Cedar Rapids&#8217; 2020 inland hurricane](https://www.cedar-rapids.org/derecho/index.php)
-  * Lyz&#8217;s newsletter _[Men Yell At Me](https://lyz.substack.com/)_
+  * _[People](https://bookshop.org/a/20775/9780385131810)_ by Peter Spier (Sam's kid's mandatory bedtime reading)
+  * [Cedar Rapids' 2020 inland hurricane](https://www.cedar-rapids.org/derecho/index.php)
+  * Lyz's newsletter _[Men Yell At Me](https://lyz.substack.com/)_
   * _[Glee](https://www.imdb.com/title/tt1327801/)_ (completely inappropriate for a 10-year-old!)
   * _[Schmigadoon!](https://www.imdb.com/title/tt11808942/)_ (musical TV, more appropriate than _Glee_)
 
@@ -43,9 +43,9 @@ Sam is Prada Guy, editor-for-hire, and editor of _[Forever Wars](https://forever
 
 Lyz: &#8220;Girls, hold out.&#8221;
 
-Alissa: &#8220;He who loves his fellow man is of the true seed of Abraham.&#8221;, also: &#8220;A man cannot be too clean for his betrothal.&#8221;, also: &#8220;if you ever get thrown into a pit of skeletons, don&#8217;t despair. You may still get out.&#8221;
+Alissa: &#8220;He who loves his fellow man is of the true seed of Abraham.&#8221;, also: &#8220;A man cannot be too clean for his betrothal.&#8221;, also: &#8220;if you ever get thrown into a pit of skeletons, don't despair. You may still get out.&#8221;
 
-Sam: &#8220;If you&#8217;re going to go on [Rumspringa](https://en.wikipedia.org/wiki/Rumspringa) before your betrothal, you have to burn all the evidence.&#8221;<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+Sam: &#8220;If you're going to go on [Rumspringa](https://en.wikipedia.org/wiki/Rumspringa) before your betrothal, you have to burn all the evidence.&#8221;<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
 </div></figure>

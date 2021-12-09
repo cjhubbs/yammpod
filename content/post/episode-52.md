@@ -22,7 +22,7 @@ _[There Will Be Blood](https://www.imdb.com/title/tt0469494/)_ (2007), directed 
 
 ### Who the Hosts Are This Week
 
-Sam is editor of [Forever Wars](https://foreverwars.substack.com/), film critic for [NBC News: Think](https://www.nbcnews.com/think) and an oilman. Alissa is Vox&#8217;s film critic and she drinks your milkshake.
+Sam is editor of [Forever Wars](https://foreverwars.substack.com/), film critic for [NBC News: Think](https://www.nbcnews.com/think) and an oilman. Alissa is Vox's film critic and she drinks your milkshake.
 
 ### Special Guest
 

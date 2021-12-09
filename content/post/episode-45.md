@@ -22,7 +22,7 @@ _[_The Devil and Daniel Johnston_](https://www.imdb.com/title/tt0436231/?ref_=nv
 
 ### Who the Hosts Are This Week
 
-Sam is reporter at large, editor for hire, film critic, and troubled troubadour. Alissa is Vox&#8217;s film critic and Casper the Friendly Ghost.
+Sam is reporter at large, editor for hire, film critic, and troubled troubadour. Alissa is Vox's film critic and Casper the Friendly Ghost.
 
 ### Special Guest
 
@@ -30,8 +30,8 @@ Sam is reporter at large, editor for hire, film critic, and troubled troubadour.
 
 ### Other Mentions
 
-  * Daniel Johnston&#8217;s [discography](https://en.wikipedia.org/wiki/Daniel_Johnston_discography)
-  * [Jonathan Paul Gillette](http://www.jonnypaulgillette.com/) (Greg&#8217;s best friend and a painter of some renown)
+  * Daniel Johnston's [discography](https://en.wikipedia.org/wiki/Daniel_Johnston_discography)
+  * [Jonathan Paul Gillette](http://www.jonnypaulgillette.com/) (Greg's best friend and a painter of some renown)
   * [David Dark](https://en.wikipedia.org/wiki/David_Dark) (American writer and professor)
   * [The Mountain Goats](https://www.mountain-goats.com/) (in the same musical milieu as Daniel Johnston)
   * [Peter Jennings interview with John Wimber](https://www.youtube.com/watch?v=9I9YCue3Fkk)
@@ -39,12 +39,11 @@ Sam is reporter at large, editor for hire, film critic, and troubled troubadour.
   * [Peter Popoff](https://en.wikipedia.org/wiki/Peter_Popoff) (televangelist and debunked clairvoyant and faith healer)
   * [The Butthole Surfers](https://en.wikipedia.org/wiki/Butthole_Surfers) (a band that Sam still loves)
   * _[The Devil and Father Amorth](https://www.imdb.com/title/tt6883152/?ref_=nv_sr_srsg_0)_ (William Friedkin film about a real-life exorcist)
-  * [Mike Warnke](https://en.wikipedia.org/wiki/Mike_Warnke) (wrote a bunch of books about Satanism in the 80s&#8230; turned out to be a fraud)
-  * Jimmy Akin&#8217;s _[Mysterious World](https://jimmyakin.com/)_ podcast
-  * [&#8220;The exorcisms of Latoya Ammons&#8221;](https://www.indystar.com/story/news/2014/01/25/the-disposession-of-latoya-ammons/4892553/) &#8211; _The Indianapolis Star_
+  * [Mike Warnke](https://en.wikipedia.org/wiki/Mike_Warnke) (wrote a bunch of books about Satanism in the 80s... turned out to be a fraud)
+  * Jimmy Akin's _[Mysterious World](https://jimmyakin.com/)_ podcast
+  * ["The exorcisms of Latoya Ammons"](https://www.indystar.com/story/news/2014/01/25/the-disposession-of-latoya-ammons/4892553/) - _The Indianapolis Star_
   * [The International Association of Exorcists](https://en.wikipedia.org/wiki/International_Association_of_Exorcists)
   * [Jack Chick tracts](https://www.chick.com/)
-  * [John Wayne Todd](https://en.wikipedia.org/wiki/John_Todd_(conspiracy_theorist)) (source for Chick tract content and later a rapist)<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div></figure>
+  * [John Wayne Todd](https://en.wikipedia.org/wiki/John_Todd_(conspiracy_theorist)) (source for Chick tract content and later a rapist)
+  
+{{< youtube iVyNnKsmdok >}}

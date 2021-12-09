@@ -42,7 +42,7 @@ Sam is a hand grenade filled with holy water. Alissa is a cat that’s running a
   * _[All Star Squadron](https://en.wikipedia.org/wiki/All-Star_Squadron)_
   * _[Deadpool](https://www.imdb.com/title/tt1431045/?ref_=nv_sr_srsg_0)_ and _[Logan](https://www.imdb.com/title/tt3315342/?ref_=fn_al_tt_1)_ (comic book movies whose purpose is to be R-rated)
   * [Ravi Zacharias](https://en.wikipedia.org/wiki/Ravi_Zacharias) (sigh)
-  * [Jonesy](https://alienanthology.fandom.com/wiki/Jonesy) the cat from _Alien_<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+  * [Jonesy](https://alienanthology.fandom.com/wiki/Jonesy) the cat from _Alien_
+  
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< youtube ce2KN06dS7c >}}

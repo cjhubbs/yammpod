@@ -20,27 +20,27 @@ _[The Hobbit](https://www.imdb.com/title/tt2528814)_ (1977), directed by Jules B
 
 ### Who the Hosts Are This Week
 
-Sam is a stone statue of a troll who didn&#8217;t learn his lesson. Alissa is a Rivendell elf.
+Sam is a stone statue of a troll who didn't learn his lesson. Alissa is a Rivendell elf.
 
 ### Other Mentions
 
   * [Glenn Yarborough](https://en.wikipedia.org/wiki/Glenn_Yarbrough) (singer of the movie songs)
   * The animated _[The Lion, the Witch and the Wardrobe](https://www.imdb.com/title/tt0079474/)_ from 1979 (which Alissa watched a lot more as a kid)
   * [Topcraft Studio](https://en.wikipedia.org/wiki/Topcraft) (animation studio that did this film, then later went bankrupt and was bought by [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki) and renamed into [Studio Ghibli](https://en.wikipedia.org/wiki/Studio_Ghibli)
-  * [The Inklings](https://en.wikipedia.org/wiki/The_Inklings) (I feel kinda bad about adding this one because, if you&#8217;re listening to this podcast, 99.9% chance you already know about The Inklings&#8230; but yeah.)
+  * [The Inklings](https://en.wikipedia.org/wiki/The_Inklings) (I feel kinda bad about adding this one because, if you're listening to this podcast, 99.9% chance you already know about The Inklings... but yeah.)
   * _[The Silmarillion](https://bookshop.org/a/20775/9780544338012)_ (same comment as re: The Inklings)
   * [Brother Theodore](https://en.wikipedia.org/wiki/Brother_Theodore) (German-born stand-up comic who did the voice for Gollum)
   * The Rankin/Bass _[The Return of the King](https://www.imdb.com/title/tt0079802/)_ animated movie
-  * _[Lilith&#8217;s Brood](https://bookshop.org/a/20775/9780446676106)_ trilogy by Octavia Butler (sci-fi? or fantasy? whatever, there are aliens.)
+  * _[Lilith's Brood](https://bookshop.org/a/20775/9780446676106)_ trilogy by Octavia Butler (sci-fi? or fantasy? whatever, there are aliens.)
   * The _[Ring Cycle](https://en.wikipedia.org/wiki/The_Ring_Cycle)_ operas
-  * P. Craig Russell&#8217;s comic series of _The Ring_ cycle, _[The Ring of the Nibelung](https://www.darkhorse.com/Books/24-813/The-Ring-of-the-Nibelung-HC)_
-  * The Chuck Jones adaptation (aka Elmer Fudd&#8217;s &#8220;[Kill the Wabbit](https://www.youtube.com/watch?v=weHNnsMY82A)&#8221; from _[What&#8217;s Opera, Doc?](https://www.imdb.com/title/tt0051189/)_)
-  * Rankin/Bass&#8217;s _[The Last Unicorn](https://www.imdb.com/title/tt0084237/)_
+  * P. Craig Russell's comic series of _The Ring_ cycle, _[The Ring of the Nibelung](https://www.darkhorse.com/Books/24-813/The-Ring-of-the-Nibelung-HC)_
+  * The Chuck Jones adaptation (aka Elmer Fudd's "[Kill the Wabbit](https://www.youtube.com/watch?v=weHNnsMY82A)" from _[What's Opera, Doc?](https://www.imdb.com/title/tt0051189/)_)
+  * Rankin/Bass's _[The Last Unicorn](https://www.imdb.com/title/tt0084237/)_
   * And the R/B _[The Flight of Dragons](https://www.imdb.com/title/tt0083951/)_
   * _[The Adventures of Ichabod and Mr. Toad](https://www.imdb.com/title/tt0041094/)_ (from 1949, a Disney flick with the voices of Bing Crosby and Basil Rathbone!)
-  * George R. R. Martin&#8217;s [_Song of Ice and Fire_ novels](https://en.wikipedia.org/wiki/Song_of_Ice_and_Fire)
+  * George R. R. Martin's [_Song of Ice and Fire_ novels](https://en.wikipedia.org/wiki/Song_of_Ice_and_Fire)
   * [Walker Percy](https://en.wikipedia.org/wiki/Walker_Percy)
   * _[The Pink Cloud](https://www.imdb.com/title/tt3548874/)_ (a Sundance movie about a pandemic)
   * _[Rebel Hearts](https://www.imdb.com/title/tt13622250/)_ (another Sundance movie that Alissa recommends)<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="683" src="https://yammpod.info/wp-content/uploads/2021/02/pub-in-dublin-ireland-1527331490DgE-1024x683.jpg" alt="" class="wp-image-224" srcset="https://yammpod.info/wp-content/uploads/2021/02/pub-in-dublin-ireland-1527331490DgE-1024x683.jpg 1024w, https://yammpod.info/wp-content/uploads/2021/02/pub-in-dublin-ireland-1527331490DgE-300x200.jpg 300w, https://yammpod.info/wp-content/uploads/2021/02/pub-in-dublin-ireland-1527331490DgE-768x512.jpg 768w, https://yammpod.info/wp-content/uploads/2021/02/pub-in-dublin-ireland-1527331490DgE-1536x1024.jpg 1536w, https://yammpod.info/wp-content/uploads/2021/02/pub-in-dublin-ireland-1527331490DgE.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>[Pub in Dublin, Ireland by George Hodan](https://www.publicdomainpictures.net/en/view-image.php?image=254933&picture=pub-in-dublin-ireland), via publicdomainpictures.net</figcaption></figure>
+{{< figure src="/pub-in-dublin-ireland-1527331490DgE-768x512.jpg" alt="Irish pub" caption="[Pub in Dublin, Ireland by George Hodan](https://www.publicdomainpictures.net/en/view-image.php?image=254933&picture=pub-in-dublin-ireland), via publicdomainpictures.net">}}

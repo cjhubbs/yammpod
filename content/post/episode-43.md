@@ -22,23 +22,22 @@ _[Saint Maud](https://www.imdb.com/title/tt7557108/)_ (2021), directed by Rose G
 
 ### Who the Hosts Are This Week
 
-Sam is film critic, editor for hire, reporter-at-large, and fragile sternum. Alissa is Vox&#8217;s film critic and popcorn you lay on the floor before you kneel on it.
+Sam is film critic, editor for hire, reporter-at-large, and fragile sternum. Alissa is Vox's film critic and popcorn you lay on the floor before you kneel on it.
 
 ### Other Mentions
 
-  * Variety&#8217;s article [&#8220;More Than 125 Entertainment Professionals Sign Open Letter Urging Peace in Middle East&#8221;](https://variety.com/2021/biz/showbiz/hollywood-letter-israel-palestine-peace-1234974326/#!), pushing letter written by Haim Saban
+  * Variety's article ["More Than 125 Entertainment Professionals Sign Open Letter Urging Peace in Middle East"](https://variety.com/2021/biz/showbiz/hollywood-letter-israel-palestine-peace-1234974326/#!), pushing letter written by Haim Saban
   * [William Blake](https://www.theartstory.org/artist/blake-william/artworks/) artwork
   * The TV show _[Hannibal](https://www.imdb.com/title/tt2243973/)_
-  * _[Rosemary&#8217;s Baby](https://www.imdb.com/title/tt0063522/)_ (movie with a similar ending to this one)
+  * _[Rosemary's Baby](https://www.imdb.com/title/tt0063522/)_ (movie with a similar ending to this one)
   * [Dogfish Head World Wide Stout](https://www.dogfish.com/brewery/beer/world-wide-stout#fishgate-dialog) beer
   * The view that the [Song of Solomon is about God and the Church](https://www.bible.ca/ef/expository-song-of-solomon.htm) rather than about sex
-  * _[Spider](https://www.imdb.com/title/tt0278731/)_ (&#8220;a Ralph Fiennes movie by David Cronenberg about a schizophrenic guy&#8221;, per Sam)
+  * _[Spider](https://www.imdb.com/title/tt0278731/)_ ("a Ralph Fiennes movie by David Cronenberg about a schizophrenic guy", per Sam)
   * Hulu show _[The Path](https://www.imdb.com/title/tt4789576/)_
   * _[Underground: The Tokyo Gas Attack and the Japanese Psyche](https://bookshop.org/a/20775/9780375725807)_ by Haruki Murakami
   * _[Fear and Trembling](https://bookshop.org/a/20775/9780140444490)_ by Soren Kierkegaard
   * <a href="https://en.wikipedia.org/wiki/Mark_Driscoll" data-type="URL" data-id="https://en.wikipedia.org/wiki/Mark_Driscoll">Mark Driscoll</a>
-  * [Victor Borge&#8217;s phonetic punctuation](https://www.youtube.com/watch?v=Qf_TDuhk3No)
-  * Bill Paxton movie _[Frailty](https://www.imdb.com/title/tt0264616/)_<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+  * [Victor Borge's phonetic punctuation](https://www.youtube.com/watch?v=Qf_TDuhk3No)
+  * Bill Paxton movie _[Frailty](https://www.imdb.com/title/tt0264616/)_
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< youtube Qf_TDuhk3No >}}

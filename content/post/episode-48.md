@@ -20,7 +20,7 @@ _[Invasion of the Body Snatchers](https://www.imdb.com/title/tt0039192/?ref_=fn_
 
 ### Who the Hosts Are This Week
 
-Sam is editor of _Forever Wars_, freelancer, editor for hire, and very, very, very calm person. Alissa is Vox&#8217;s film critic and a loud scream.
+Sam is editor of _Forever Wars_, freelancer, editor for hire, and very, very, very calm person. Alissa is Vox's film critic and a loud scream.
 
 ### Special Guest
 
@@ -28,13 +28,13 @@ Sam is editor of _Forever Wars_, freelancer, editor for hire, and very, very, ve
 
 ### Other Mentions
 
-  * M. Night Shyamalan&#8217;s _[The Happening](https://www.imdb.com/title/tt0949731/?ref_=nm_flmg_prd_11)_ (a truly awful movie)
-  * John Carpenter&#8217;s _[The Thing](https://www.imdb.com/title/tt0084787/?ref_=nv_sr_srsg_0)_ (this one held up pretty well)
-  * [Jainism](https://en.wikipedia.org/wiki/Jainism) (briefly mentioned, but little-enough known it&#8217;s worth a link!)
+  * M. Night Shyamalan's _[The Happening](https://www.imdb.com/title/tt0949731/?ref_=nm_flmg_prd_11)_ (a truly awful movie)
+  * John Carpenter's _[The Thing](https://www.imdb.com/title/tt0084787/?ref_=nv_sr_srsg_0)_ (this one held up pretty well)
+  * [Jainism](https://en.wikipedia.org/wiki/Jainism) (briefly mentioned, but little-enough known it's worth a link!)
   * The [Holiday Armadillo](https://www.imdb.com/title/tt0583613/) episode of _Friends_
-  * Erich Von Daniken&#8217;s book [_Chariots of the Gods_?](https://en.wikipedia.org/wiki/Chariots_of_the_Gods%3F) (a book suggesting that extraterrestrial beings influenced ancient technology)
+  * Erich Von Daniken's book [_Chariots of the Gods_?](https://en.wikipedia.org/wiki/Chariots_of_the_Gods%3F) (a book suggesting that extraterrestrial beings influenced ancient technology)
   * _[On A Sunbeam](https://bookshop.org/a/20775/9781250178138)_ by Tillie Walden (a graphic novel Sam really likes)
-  * Francis Ford Coppola&#8217;s movie _[The Conversation](https://www.imdb.com/title/tt0071360/?ref_=fn_al_tt_1)_ (per Alissa, probably the greatest sound designed movie of all time)
+  * Francis Ford Coppola's movie _[The Conversation](https://www.imdb.com/title/tt0071360/?ref_=fn_al_tt_1)_ (per Alissa, probably the greatest sound designed movie of all time)
   * [Amy Seimetz](https://www.imdb.com/name/nm1541272/?ref_=tt_ov_dr) (director of _She Dies Tomorrow_ and a director who Sam and Alissa think could do a good update of _Body Snatchers_)
   * _[2666](https://bookshop.org/a/20775/9780312429218)_ by Roberto Bolaño
   * The _[Jerusalem Quartet](https://www.amazon.com/gp/bookseries/B00CJJQ63A/)_ series by Edward Whittemore

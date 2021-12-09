@@ -16,7 +16,7 @@ Release date: March 26, 2021
 ### Movie of the Week
 
 _[The Last Temptation of Christ](https://www.imdb.com/title/tt0095497/?ref_=nv_sr_srsg_0),_ directed by Martin Scorsese  
-[Streaming free (with ads) on [Peacock](https://www.peacocktv.com/watch/asset/movies/drama/the-last-temptation-of-christ/bf9f1bd7-ba7e-301d-9ab7-e725f0fa0877); via subscription on [Hulu](http://Check out The Last Temptation of Christ on Hulu! https://www.hulu.com/movie/a713e932-f3c9-454a-b67d-5f2f2e3f03fc?play=false&utm_source=shared_link) | [Sling](https://watch.sling.com/1/program/4f094199ec5242c98f21197be32fa8dd/watch?trackingid=google-feed)]
+[Streaming free (with ads) on [Peacock](https://www.peacocktv.com/watch/asset/movies/drama/the-last-temptation-of-christ/bf9f1bd7-ba7e-301d-9ab7-e725f0fa0877); via subscription on [Hulu](https://www.hulu.com/movie/a713e932-f3c9-454a-b67d-5f2f2e3f03fc?play=false&utm_source=shared_link) | [Sling](https://watch.sling.com/1/program/4f094199ec5242c98f21197be32fa8dd/watch?trackingid=google-feed)]
 
 ### Who the Hosts Are This Week
 
@@ -44,6 +44,4 @@ Sam is… incel? Alissa is Fake Aslan.
   * [Three-Act structure](https://en.wikipedia.org/wiki/Three-act_structure) in narrative fiction
   * [Angels In America](https://en.wikipedia.org/wiki/Angels_in_America) (Tony Kushner play which is the subject of Isaac’s book)
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" width="512" height="717" src="https://yammpod.info/wp-content/uploads/2021/03/DBFEBA40-8A4E-44AB-AED7-307F57A08684.jpeg" alt="" class="wp-image-272" srcset="https://yammpod.info/wp-content/uploads/2021/03/DBFEBA40-8A4E-44AB-AED7-307F57A08684.jpeg 512w, https://yammpod.info/wp-content/uploads/2021/03/DBFEBA40-8A4E-44AB-AED7-307F57A08684-214x300.jpeg 214w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Scene from <em>Angels In America</em>, <a href="https://commons.wikimedia.org/wiki/File:Angels_in_America_Part_2_(33933841816).jpg">Uark Theatre</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</figcaption></figure>
-</div>
+{{< figure src="/DBFEBA40-8A4E-44AB-AED7-307F57A08684.jpeg" alt="Angels in America play" caption="Scene from _Angels In America_, [Uark Theatre](https://commons.wikimedia.org/wiki/File:Angels_in_America_Part_2_(33933841816).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons" >}}

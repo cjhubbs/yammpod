@@ -5,7 +5,7 @@ categories:
 date: "2021-01-27T10:41:41Z"
 guid: https://yammpod.info/?p=138
 id: 138
-title: 'Episode 16: God&#8217;s Gonna Run You Over'
+title: "Episode 16: God's Gonna Run You Over"
 url: /episode-16/
 ---
 **Link to the show:** [Young Adult Movie Ministry Episode 16 on Substack](https://yammpod.substack.com/p/episode-16-gods-gonna-run-you-over)  

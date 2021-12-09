@@ -22,16 +22,15 @@ _[Indiana Jones and the Raiders of the Lost Ark](https://www.imdb.com/title/tt00
 
 ### Who the Hosts Are This Week
 
-Sam is reporter, editor for hire, film critic at large, and that one button that never quite gets buttoned near the top of your shirt. Alissa is Vox&#8217;s film critic and that last shot on the table you have to take.
+Sam is reporter, editor for hire, film critic at large, and that one button that never quite gets buttoned near the top of your shirt. Alissa is Vox's film critic and that last shot on the table you have to take.
 
 ### Other Mentions
 
   * _[Raiders of the Lost Ark: The Adaptation](https://www.raidersguys.com/)_ (3 boys remade _Raiders_ shot-for-shot)
   * _[Raiders!: The Story of the Greatest Fan Film Ever Made](https://www.imdb.com/title/tt3551954/)_ (documentary about that remake)
-  * [_The Secret of the Incas_ (1954)](https://www.imdb.com/title/tt0047464/?ref_=nv_sr_srsg_2) (Charlton Heston film&#8230; Chuck looks a lot like a prototype Indy here)
-  * Alan Moore&#8217;s _[League of Extraordinary Gentlemen](https://bookshop.org/a/20775/9781401240837)_ comic
-  * _[Don Verdean](https://www.imdb.com/title/tt3534282/?ref_=nv_sr_srsg_0)_ (movie in which Sam Rockwell plays a character who seems to think he&#8217;s Indiana Jones)
-  * [Aircraft Incidents section](https://en.wikipedia.org/wiki/Harrison_Ford#Incidents) of Harrison Ford&#8217;s Wikipedia page (maybe the dude isn&#8217;t that good a pilot?)<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div></figure>
+  * [_The Secret of the Incas_ (1954)](https://www.imdb.com/title/tt0047464/?ref_=nv_sr_srsg_2) (Charlton Heston film... Chuck looks a lot like a prototype Indy here)
+  * Alan Moore's _[League of Extraordinary Gentlemen](https://bookshop.org/a/20775/9781401240837)_ comic
+  * _[Don Verdean](https://www.imdb.com/title/tt3534282/?ref_=nv_sr_srsg_0)_ (movie in which Sam Rockwell plays a character who seems to think he's Indiana Jones)
+  * [Aircraft Incidents section](https://en.wikipedia.org/wiki/Harrison_Ford#Incidents) of Harrison Ford's Wikipedia page (maybe the dude isn't that good a pilot?)
+  
+{{< youtube tVjA9PndZxE >}}

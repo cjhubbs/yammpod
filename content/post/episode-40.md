@@ -20,7 +20,7 @@ _[Black Narcissus](https://www.imdb.com/title/tt0039192/?ref_=fn_al_tt_2)_ (1947
 
 ### Who the Hosts Are This Week
 
-Sam is movie critic, reporter at large, editor for hire, and has nothing clever to be from today&#8217;s film. Alissa is Vox&#8217;s film critic and Alissa suggests Sam could&#8217;ve been a tube of lipstick.
+Sam is movie critic, reporter at large, editor for hire, and has nothing clever to be from today's film. Alissa is Vox's film critic and Alissa suggests Sam could've been a tube of lipstick.
 
 ### Special Guest
 
@@ -32,13 +32,11 @@ Sam is movie critic, reporter at large, editor for hire, and has nothing clever 
   * Ari Astor and his film _[Midsommar](https://www.imdb.com/title/tt8772262/?ref_=nv_sr_srsg_0)_ (which was discussed on [YAMMPOD Episode 17](https://yammpod.info/episode-17/))
   * [_Black Narcissus_ TV adaptation](https://www.imdb.com/title/tt8001136/?ref_=nv_sr_srsg_0) on FX
   * _[The Witch](https://www.imdb.com/title/tt4263482/?ref_=nv_sr_srsg_3)_ (2015 movie by Robert Eggers that reminds Alissa of this film)
-  * Paul Schrader and Martin Scorsese&#8217;s [planned project on Christianity](https://tv.avclub.com/paul-schrader-says-hes-re-teaming-with-martin-scorsese-1846752572) _The Apostles and Apocrypha_
+  * Paul Schrader and Martin Scorsese's [planned project on Christianity](https://tv.avclub.com/paul-schrader-says-hes-re-teaming-with-martin-scorsese-1846752572) _The Apostles and Apocrypha_
   * John Ganz on [The Politics of Cultural Despair](https://johnganz.substack.com/p/the-politics-of-cultural-despair)
   * _[Lake of Fire](https://www.imdb.com/title/tt0841119/?ref_=nv_sr_srsg_0)_ (documentary on the abortion debate)
   * _[After Tiller](https://www.imdb.com/title/tt2430104/?ref_=nv_sr_srsg_0)_ (documentary on abortion providers)
   * _[Milk Fed](https://bookshop.org/a/20775/9781982142490)_ by Melissa Broder
-  * [Altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) (it&#8217;s a real thing, says Alissa!)
-  * _[Hamlet 2](https://www.imdb.com/title/tt1104733/?ref_=nv_sr_srsg_1)_ (Steve Coogan movie)<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div></figure>
+  * [Altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) (it's a real thing, says Alissa!)
+  * _[Hamlet 2](https://www.imdb.com/title/tt1104733/?ref_=nv_sr_srsg_1)_ (Steve Coogan movie)
+  

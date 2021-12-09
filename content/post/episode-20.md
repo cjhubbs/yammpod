@@ -48,6 +48,6 @@ Sam is critic for NBC News, reporter-at-large, and a shambling monster assembled
   * Don Hertzfeld's graphic novel _[The End of the World](https://bookshop.org/a/20775/9781984855350)_
   * Don Hertzfeld's _[World of Tomorrow](https://www.imdb.com/title/tt4171032/)_ animation series
   * ...and his [_Rejected_](https://www.youtube.com/watch?v=W7JyjZI3LUM) cartoon
-  * ...and his [_Billy&#8217;s Balloon_](https://www.youtube.com/watch?v=7jksRQcI9NA) cartoon
+  * ...and his [_Billy's Balloon_](https://www.youtube.com/watch?v=7jksRQcI9NA) cartoon
 
 {{< youtube TdnLhN4SeYY >}}
