@@ -1,12 +1,6 @@
 ---
 author: chris
-categories:
-- Uncategorized
 date: "2021-11-17T15:05:50Z"
-guid: https://yammpod.info/?p=431
-id: 431
-spay_email:
-- ""
 title: 'Vol. 2, Episode 9: How to Live in a Circle'
 url: /episode-56/
 ---

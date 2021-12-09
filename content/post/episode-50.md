@@ -1,18 +1,14 @@
 ---
 author: chris
-categories:
-- Uncategorized
 date: "2021-09-08T11:08:31Z"
 guid: https://yammpod.info/?p=383
 id: 383
-spay_email:
-- ""
 title: 'Vol. 2, Ep. 3: Vibing Into a Dreamscape'
 url: /episode-50/
 ---
  
 
-**Link to the show:** <a href="https://yammpod.substack.com/p/vol-2-episode-3-vibing-into-a-dreamscape" data-type="URL">Young Adult Movie Ministry Vol. 2 Episode 3 on Substack</a>  
+**Link to the show:** [Young Adult Movie Ministry Vol. 2 Episode 3 on Substack](https://yammpod.substack.com/p/vol-2-episode-3-vibing-into-a-dreamscape)    
 Release date: September 3, 2021
 
 ### Movie of the Week
@@ -65,6 +61,4 @@ Sam is editor of _[Forever Wars](https://foreverwars.substack.com/)_, reporter f
 
 **Sam:** You don't have to be awesome. That's fine. If you have a girlfriend at the start of the movie, and she seems nice, maybe just stick with that!
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-full is-resized"><img loading="lazy" src="https://yammpod.info/wp-content/uploads/2021/09/external-content.duckduckgo.jpg" alt="" class="wp-image-388" width="656" height="352" srcset="https://yammpod.info/wp-content/uploads/2021/09/external-content.duckduckgo.jpg 1024w, https://yammpod.info/wp-content/uploads/2021/09/external-content.duckduckgo-300x161.jpg 300w, https://yammpod.info/wp-content/uploads/2021/09/external-content.duckduckgo-768x413.jpg 768w" sizes="(max-width: 656px) 100vw, 656px" /></figure>
-</div>
+{{< figure src="/divine-presence-to-be-shot.jpg" alt="divine presence to be shot" >}}

@@ -5,15 +5,13 @@ categories:
 date: "2021-11-02T10:02:49Z"
 guid: https://yammpod.info/?p=414
 id: 414
-spay_email:
-- ""
 title: 'Vol. 2, Episode 7: An Unworthy Manner'
 url: /episode-54/
 ---
-**Link to the show:** <a href="https://yammpod.substack.com/p/vol-2-episode-7-an-unworthy-manner" data-type="URL">Young Adult Movie Ministry Vol. 2, Episode 7 on Substack</a>  
+**Link to the show:** [Young Adult Movie Ministry Vol. 2, Episode 7 on Substack](https://yammpod.substack.com/p/vol-2-episode-7-an-unworthy-manner)   
 Release date: October 29, 2021
 
-### <s>Movie</s> TV Show of the Week
+### ~~Movie~~ TV Show of the Week
 
 _[Midnight Mass](https://www.imdb.com/title/tt10574558)_ (2021)  
 [Streaming on [Netflix](https://www.netflix.com/title/81083626)]
@@ -50,6 +48,4 @@ Andy: #1: ACAV (All Catholics Are <spoilers>). #2: Buy some damn As for your chu
 
 Sam: If you live on an island, at least have a speedboat, or have an escape route.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-full is-resized"><img loading="lazy" src="https://yammpod.info/wp-content/uploads/2021/11/20-Foot-Baja-Speedboat-Media-1.jpg" alt="" class="wp-image-418" width="645" height="430" srcset="https://yammpod.info/wp-content/uploads/2021/11/20-Foot-Baja-Speedboat-Media-1.jpg 900w, https://yammpod.info/wp-content/uploads/2021/11/20-Foot-Baja-Speedboat-Media-1-300x200.jpg 300w, https://yammpod.info/wp-content/uploads/2021/11/20-Foot-Baja-Speedboat-Media-1-768x512.jpg 768w" sizes="(max-width: 645px) 100vw, 645px" /></figure>
-</div>
+{{< figure src="/20-Foot-Baja-Speedboat-Media-1-768x512.jpg" alt="speedboat" >}}

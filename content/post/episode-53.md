@@ -5,18 +5,16 @@ categories:
 date: "2021-10-25T10:55:23Z"
 guid: https://yammpod.info/?p=406
 id: 406
-spay_email:
-- ""
 title: 'Vol. 2, Episode 6: The Last Temptation of Silent Bob'
 url: /episode-53/
 ---
-**Link to the show:** <a href="https://yammpod.substack.com/p/vol-2-episode-6-the-last-temptation" data-type="URL">Young Adult Movie Ministry Vol. 2, Episode 6 on Substack</a>  
+**Link to the show:** [Young Adult Movie Ministry Vol. 2, Episode 6 on Substack](https://yammpod.substack.com/p/vol-2-episode-6-the-last-temptation)   
 Release date: October 20, 2021
 
 ### Movie of the Week
 
 _<a href="https://www.imdb.com/title/tt0120655/" data-type="URL" data-id="https://www.imdb.com/title/tt0120655/">Dogma</a>_ (1999), directed by Kevin Smith  
-[Streaming&#8230; nowhere legitimately, though there's <a href="https://www.youtube.com/watch?v=I5UjfvF917k" data-type="URL" data-id="https://www.youtube.com/watch?v=I5UjfvF917k">this iffy version on YouTube</a>]
+[Streaming... nowhere legitimately, though there's [this iffy version on YouTube](https://www.youtube.com/watch?v=I5UjfvF917k)]
 
 ### Who the Hosts Are This Week
 

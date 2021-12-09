@@ -5,14 +5,12 @@ categories:
 date: "2021-08-27T11:20:20Z"
 guid: https://yammpod.info/?p=374
 id: 374
-spay_email:
-- ""
 title: 'Vol. 2, Ep. 2: Painted Women Who Will Do Anything for Silver'
 url: /episode-49/
 ---
  
 
-**Link to the show:** <a href="https://yammpod.substack.com/p/vol-2-episode-2-painted-women-who" data-type="URL">Young Adult Movie Ministry Vol. 2, Ep. 2 on Substack</a>  
+**Link to the show:** [Young Adult Movie Ministry Vol. 2, Ep. 2 on Substack](https://yammpod.substack.com/p/vol-2-episode-2-painted-women-who)   
 Release date: August 26, 2021
 
 ### Movie of the Week
@@ -41,11 +39,8 @@ Sam is Prada Guy, editor-for-hire, and editor of _[Forever Wars](https://forever
 
 ### What should we learn from this movie?
 
-Lyz: &#8220;Girls, hold out.&#8221;
+**Lyz:** "Girls, hold out."
 
-Alissa: &#8220;He who loves his fellow man is of the true seed of Abraham.&#8221;, also: &#8220;A man cannot be too clean for his betrothal.&#8221;, also: &#8220;if you ever get thrown into a pit of skeletons, don't despair. You may still get out.&#8221;
+**Alissa:** "He who loves his fellow man is of the true seed of Abraham.", also: "A man cannot be too clean for his betrothal.", also: "if you ever get thrown into a pit of skeletons, don't despair. You may still get out."
 
-Sam: &#8220;If you're going to go on [Rumspringa](https://en.wikipedia.org/wiki/Rumspringa) before your betrothal, you have to burn all the evidence.&#8221;<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div></figure>
+**Sam:** "If you're going to go on [Rumspringa](https://en.wikipedia.org/wiki/Rumspringa) before your betrothal, you have to burn all the evidence."

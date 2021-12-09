@@ -14,3 +14,5 @@ title: 'Volume 2 Index'
 1. Vol. 2, Ep. 7: [An Unworthy Manner](/episode-54/) (TV Show: _Midnight Mass_ (2021); guest: Andy Levy)
 1. Vol. 2, Ep. 8: [Entertaining Slime](/episode-55/) (Movie: _Poltergeist_ (1982))
 1. Vol. 2, Ep. 9: [How to Live in a Circle](/episode-56/) (Movie: _Arrival_ (2016), guest: Meg Conley)
+1. Vol. 2, Ep. 10: [God Is a Pink Robot](/episode-57) (Movie: _Eternals_ (2021), guest: Tyler Huckabee)
+1. Vol. 2, Ep. 11: [More Power to Him and His Big Stupid Face](/episode-58) (Movie: _Free Guy_ (2021))

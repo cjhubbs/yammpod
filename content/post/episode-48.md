@@ -5,12 +5,10 @@ categories:
 date: "2021-08-23T12:42:47Z"
 guid: https://yammpod.info/?p=355
 id: 355
-spay_email:
-- ""
 title: 'Vol. 2, no. 1: Resting Pod Face'
 url: /episode-48/
 ---
-**Link to the show:** <a href="https://yammpod.substack.com/p/vol-2-no-1-resting-pod-face" data-type="URL">Young Adult Movie Ministry Vol. 2 no. 1 on Substack</a>  
+**Link to the show:** [Young Adult Movie Ministry Vol. 2 no. 1 on Substack](https://yammpod.substack.com/p/vol-2-no-1-resting-pod-face)   
 Release date: August 18, 2021
 
 ### Movie of the Week
@@ -38,7 +36,5 @@ Sam is editor of _Forever Wars_, freelancer, editor for hire, and very, very, ve
   * [Amy Seimetz](https://www.imdb.com/name/nm1541272/?ref_=tt_ov_dr) (director of _She Dies Tomorrow_ and a director who Sam and Alissa think could do a good update of _Body Snatchers_)
   * _[2666](https://bookshop.org/a/20775/9780312429218)_ by Roberto Bolaño
   * The _[Jerusalem Quartet](https://www.amazon.com/gp/bookseries/B00CJJQ63A/)_ series by Edward Whittemore
-  * <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< youtube ungLa3ECO-E >}}

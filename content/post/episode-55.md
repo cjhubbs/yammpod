@@ -5,12 +5,10 @@ categories:
 date: "2021-11-03T14:02:38Z"
 guid: https://yammpod.info/?p=425
 id: 425
-spay_email:
-- ""
 title: 'Vol. 2, Episode 8: Entertaining Slime'
 url: /episode-55/
 ---
-**Link to the show:** <a href="https://yammpod.substack.com/p/vol-2-episode-8-entertaining-slime" data-type="URL">Young Adult Movie Ministry Vol. 2, Episode 8 on Substack</a>  
+**Link to the show:** [Young Adult Movie Ministry Vol. 2, Episode 8 on Substack](https://yammpod.substack.com/p/vol-2-episode-8-entertaining-slime)   
 Release date: November 2, 2021
 
 ### Movie of the Week
@@ -26,7 +24,7 @@ Sam is reporter-at-large, editor of [Forever Wars](https://foreverwars.substack.
 
   * Per Sam, this movie is so much better than _[Stranger Things](https://www.imdb.com/title/tt4574334)_
   * _[The Souvenir, Part II](https://www.imdb.com/title/tt6992978/)_ (which includes a kid from _Stranger Things)_
-  * Critic [J. Hoberman's](https://en.wikipedia.org/wiki/J._Hoberman) book [_Make My Day_: _Movie Culture in the Age of Reagan_](https://bookshop.org/a/20775/9781595580061) (Sam also mentioned one that he wrote on the French New Wave which I can't seem to identify&#8230;) 
+  * Critic [J. Hoberman's](https://en.wikipedia.org/wiki/J._Hoberman) book [_Make My Day_: _Movie Culture in the Age of Reagan_](https://bookshop.org/a/20775/9781595580061) (Sam also mentioned one that he wrote on the French New Wave which I can't seem to identify...) 
   * Tobe Hooper's other films: _[The Texas Chainsaw Massacre](https://www.imdb.com/title/tt0072271/?ref_=nm_flmg_dr_37)_ and _[Eaten Alive](https://www.imdb.com/title/tt0074455/?ref_=nm_flmg_dr_36)_
   * The sequel to this film: _[Poltergeist II: The Other Side](https://www.imdb.com/title/tt0091778/)_ (also a good film, per Sam)
   * [The _Poltergeist_ Curse](https://www.biography.com/news/the-poltergeist-curse-its-heeere)
@@ -48,6 +46,5 @@ Alissa: Do not dig your pool where there is a cemetery. Secondly, if you pick up
 
 Sam: Latex and corn syrup are a potent combination and can be used around the house to amuse your friends and family. Also, don't let your kids set too close to the television set.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-full"><img loading="lazy" width="474" height="474" src="https://yammpod.info/wp-content/uploads/2021/11/external-content.duckduckgo.jpg" alt="" class="wp-image-427" srcset="https://yammpod.info/wp-content/uploads/2021/11/external-content.duckduckgo.jpg 474w, https://yammpod.info/wp-content/uploads/2021/11/external-content.duckduckgo-300x300.jpg 300w, https://yammpod.info/wp-content/uploads/2021/11/external-content.duckduckgo-150x150.jpg 150w" sizes="(max-width: 474px) 100vw, 474px" /></figure>
-</div>
+{{< figure src="/teddy-ruxpin.jpg" alt="Teddy Ruxpin doll" >}}
+
