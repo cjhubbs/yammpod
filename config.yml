@@ -51,6 +51,7 @@ params:
   readingTimeText: "Estimated reading time:"
   fathomUrl: ""
   fathomSiteId: ""
+  googleAnalyticsID: "G-Q4WBCBYGCP"
 
 permalinks:
   post: "/:filename/"
