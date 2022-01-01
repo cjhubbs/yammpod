@@ -39,7 +39,7 @@ Sam is reporter-at-large, editor of [Forever Wars](https://foreverwars.substack.
 
 ### What we learned today
 
-**Alissa:** Even if you feel like you're surrounded by MUppets, you should act like you are acting with the Royal Shakespeare Company.
+**Alissa:** Even if you feel like you're surrounded by Muppets, you should act like you are acting with the Royal Shakespeare Company.
 
 **Sam:** When a hand puppet dies, the emotion you feel is called 'felt loss'. (Sam is summarily cancelled.)  
   
