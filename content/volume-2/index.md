@@ -17,3 +17,4 @@ title: 'Volume 2 Index'
 1. Vol. 2, Ep. 10: [God Is a Pink Robot](/episode-57) (Movie: _Eternals_ (2021), guest: Tyler Huckabee)
 1. Vol. 2, Ep. 11: [More Power to Him and His Big Stupid Face](/episode-58) (Movie: _Free Guy_ (2021))
 1. Vol. 2, Ep. 12: [Felt Loss](/episode-59) (Movie: _The Muppet Christmas Carol_ (1992))
+1. Vol. 2, Ep. 13: [Work Backwards From the Cat](/episode-60) (Movie: _The Secret of Kells_ (2009); guest: Jeffrey Overstreet)
