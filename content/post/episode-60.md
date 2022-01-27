@@ -9,7 +9,7 @@ url: /episode-60/
 Release date: January 24, 2022
 
 ### Movie of the Week
-[_The Secret of Kells_](https://www.imdb.com/title/tt0485601/) (2009), directed by Tomm Moore and Nora Twomey
+[_The Secret of Kells_](https://www.imdb.com/title/tt0485601/) (2009), directed by Tomm Moore and Nora Twomey  
 [Digital rental on [Amazon](https://www.amazon.com/gp/video/detail/0TZUGT65BP0SXM5CYAI3VSI44F/) | [YouTube](https://www.youtube.com/watch?v=W9_3k4U08Yc) | [AppleTV](https://tv.apple.com/us/movie/the-secret-of-kells/umc.cmc.3sxzk26ezpba303e9k2tvbzp?at=1000l3V2&ct=effeteHalicore&playableId=tvs.sbd.9001%3A1523138085)]
 
 ### Special Guest
