@@ -1,7 +1,7 @@
 ---
 author: chris
 date: "2022-02-14"
-title: 'Vol. 2, Episode 14: Never go to anybody's house'
+title: 'Vol. 2, Episode 14: Never go to anybodys house'
 url: /episode-61/
 ---
 **Link to the show:** [Young Adult Movie Ministry Vol. 2, Episode 14 on Substack](https://yammpod.substack.com/p/vol-2-ep-14-never-go-to-anybodys) 
