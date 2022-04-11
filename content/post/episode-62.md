@@ -1,7 +1,7 @@
 ---
 author: chris
 date: "2022-02-25"
-title: 'Vol. 2, Episode 15: It\'s a bird, it\'s a plane'
+title: "Vol. 2, Episode 15: It's a bird, it's a plane"
 url: /episode-62/
 ---
 **Link to the show:** [Young Adult Movie Ministry Vol. 2, Episode 15 on Substack](https://yammpod.substack.com/p/vol-2-ep-15-its-a-bird-its-a-plane) 
