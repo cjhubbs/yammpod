@@ -35,3 +35,4 @@ Sam is reporter-at-large, editor of [Forever Wars](https://foreverwars.substack.
 - [_Batman: Mask of the Phantasm_](https://www.imdb.com/title/tt0106364) - an animated Batman film that Jamelle highly recommends
 - [Grant Morrison's run of Batman](https://www.cbr.com/grant-morrison-batman-chronological-order/) from the 1980s
 
+{{< figure src="/Batman-_Earth_One.jpg" alt="Batman Earth One cover" caption="Batman Earth One, fair use, via [Wikipedia](https://en.wikipedia.org/wiki/File:Batman-_Earth_One.jpg)" >}}
