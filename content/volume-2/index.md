@@ -21,3 +21,4 @@ title: 'Volume 2 Index'
 1. Vol. 2, Ep. 14: [Never to go anybody's house](/episode-61) (Movie: _The Tragedy of Macbeth_ (2021); guest: Helen Shaw)
 1. Vol. 2, Ep. 15: [It's a bird! It's a plane!](/episode-62) (Movie: _Don't Look Up_ (2021))
 1. Vol. 2, Ep. 16: [Beep Beep Yeah](/episode-63) (Movie: _Drive My Car_ (2021))
+1. Vol. 2, Ep. 17: [A Dark Knight Returns](/episode-64) (Movie: _The Batman_ (2022), guest: Jamelle Bouie)
