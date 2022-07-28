@@ -4,7 +4,7 @@ date: "2022-07-04"
 title: 'Vol. 2, Episode 18: The Exorcisthood of All Believers'
 url: /episode-65/
 ---
-**Link to the show:** [Young Adult Movie Ministry Vol. 2, Episode 18 on Substack]([https://yammpod.substack.com/p/vol-2-ep-17-a-dark-knight-returns](https://yammpod.substack.com/p/the-exorcisthood-of-all-believers) 
+**Link to the show:** [Young Adult Movie Ministry Vol. 2, Episode 18 on Substack](https://yammpod.substack.com/p/the-exorcisthood-of-all-believers)
 
 Release date: July 4, 2022
 
